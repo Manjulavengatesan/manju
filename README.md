@@ -1,1 +1,2 @@
 # manju
+cd manju
